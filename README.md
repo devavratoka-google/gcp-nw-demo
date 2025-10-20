@@ -1,5 +1,7 @@
 # gcp-nw-demo
 
+## Architecture
+
 <img src="images/ncc.png" width="100%">
 
 <img src="images/psapsc.png" width="100%">
