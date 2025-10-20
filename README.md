@@ -4,7 +4,7 @@
 
 <img src="images/ncc.png" width="100%">
 
-<img src="images/psapsc.png" width="100%">
+<img src="images/psapsc.png">
 
 <img src="images/dns.png" width="100%">
 
