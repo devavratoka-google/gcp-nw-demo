@@ -1,5 +1,7 @@
 # gcp-nw-demo
 
+#TO-DO: note all GCE VM IPs in the psa psc diagram are ephemeral, I will reserve static IPs eventually but for now true up with the IP created for the VMs.
+
 ## Architecture
 
 1. VPC, NCC Overview
